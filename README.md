@@ -1,6 +1,6 @@
 # ID bot for Telegram 
 
-##[Bot](https://t.me/eidbot)
+## [Bot](https://t.me/eidbot)
 
 Bot for know your, chat, forwarded messages and stickers ID's
 
